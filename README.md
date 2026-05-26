@@ -65,7 +65,7 @@ Neural-Network-Visualizer/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/reak-projects/Neural-network-visualizer.git
 cd Neural-Network-Visualizer
 ```
 
