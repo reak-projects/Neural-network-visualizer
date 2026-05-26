@@ -18,6 +18,11 @@ An AI-powered web application that generates and visualizes custom 3D neural net
 - Environment-based API key handling
 
 ---
+## 🚀 Live Demo
+
+**Deployed URL:** https://neural-network-visualizer-steel.vercel.app/
+
+> **Note:** This deployment is intended for UI demonstration purposes only. Certain advanced features may be unavailable without the required API keys.
 
 ## 🛠 Tech Stack
 
